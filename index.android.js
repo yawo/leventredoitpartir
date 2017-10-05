@@ -1,5 +1,5 @@
 import { AppRegistry } from 'react-native'
 
-import Auth0Component from './App'
+import App from './App'
 
-AppRegistry.registerComponent('leventredoitpartir', () => Auth0Component)
+AppRegistry.registerComponent('leventredoitpartir', () => App)
